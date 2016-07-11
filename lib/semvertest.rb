@@ -1,0 +1,2 @@
+require 'semvertest/awesome.rb'
+
