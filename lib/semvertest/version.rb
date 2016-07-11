@@ -1,3 +1,3 @@
 module Semvertest
-  VERSION = '1.11.9'
+  VERSION = '1.11.10'
 end
